@@ -8,10 +8,13 @@ PADAVAN_THEMES_REPO="https://gitlab.com/hadzhioglu/padavan-themes.git"
 PADAVAN_THEMES_BRANCH="main"
 
 PADAVAN_THEMES=(
-#  blue
+   blue
 #  blue2
 #  grey
 #  grey2
 #  white
 #  yellow
 )
+
+CONFIG_VENDOR="XIAOMI"
+CONFIG_FIRMWARE_PRODUCT_ID="MI-4"
